@@ -9,5 +9,5 @@ app.get('/', (req, res) =>
 
 app.listen(port, () => 
 {
-    console.log(`Example app listening on ort ${port}`)
+    console.log(`Servidor funcionando na porta: ${port}`)
 })
